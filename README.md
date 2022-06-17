@@ -8,7 +8,5 @@ Everything about Add Monetization (apps,mobile devices, web, tv etc.)
 
 | Abbreviation | Attribute Name | Description 
 | ---          | ---            | ---         | 
-|   CPI        |Cost Per Install |   Read more : 
-                                       1. https://www.publift.com/adteach/what-are-cpm-cpc-cpa-ctr
-                                       2. https://www.criteo.com/blog/whats-difference-cpc-cpm/        |
+|   CPI        |Cost Per Install |   Read more : 1. https://www.publift.com/adteach/what-are-cpm-cpc-cpa-ctr 2. https://www.criteo.com/blog/whats-difference-cpc-cpm/ |
 |     CPM      | Cost Per Mille	|             |
