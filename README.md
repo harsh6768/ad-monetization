@@ -10,11 +10,15 @@ Everything about Add Monetization (apps,mobile devices, web, tv etc.)
   
 
 2. CPM (Cost Per Mile ) : 
-   **Description** : 
+   
+   **Description** :
+   
    * https://www.publift.com/adteach/what-are-cpm-cpc-cpa-ctr 
    *  https://www.criteo.com/blog/whats-difference-cpc-cpm/
    
    
 3. CPV ( Cost Per Video ) : 
+ 
    **Description** : A bidding method for video campaigns where you pay for a view.
+   
    * https://www.is.com/glossary/cost-per-view/
